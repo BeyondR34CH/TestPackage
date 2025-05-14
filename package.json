@@ -1,0 +1,6 @@
+{
+  "displayName": "DOTween",
+  "name": "com.demigiant.dotween",
+  "version": "1.0.0",
+  "description": "DOTween is a fast, efficient, fully type-safe object-oriented animation engine, optimized for C# (it is also the evolution of HOTween, my previous Unity tween engine)."
+}
