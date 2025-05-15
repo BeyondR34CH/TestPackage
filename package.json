@@ -1,6 +1,9 @@
 {
-  "displayName": "DOTween",
-  "name": "com.demigiant.dotween",
+  "displayName": "BeyondREACH Test",
+  "name": "com.beyondreach.test",
   "version": "1.0.0",
-  "description": "DOTween is a fast, efficient, fully type-safe object-oriented animation engine, optimized for C# (it is also the evolution of HOTween, my previous Unity tween engine)."
+  "description": "Test description.",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  }
 }
