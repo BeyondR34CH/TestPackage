@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Test description.",
   "dependencies": {
+    "com.cysharp.unitask": "2.5.10",
     "com.unity.nuget.newtonsoft-json": "3.0.2"
   }
 }
