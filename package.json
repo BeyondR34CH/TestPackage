@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "description": "Test description.",
   "dependencies": {
-    "com.cysharp.unitask": "2.5.10"
+    "com.cysharp.unitask": "1.0.0"
   }
 }
